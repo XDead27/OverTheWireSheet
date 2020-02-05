@@ -21,3 +21,12 @@ bandit26	5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
 bandit27	3ba3118a22e93127a4ed485be72ef5ea --bleh
 bandit28	0ef186ac70e04ea33b4c1853d2526fa2
 bandit29	bbc96594b4e001778eee9975372716b2
+bandit30	5b90576bedb2cc04c86a9e924ce42faf
+bandit31	47e603bb428404d265f59c42920d81e5 --bleh
+bandit32	56a9bf19c63d650ce78e6ec0354ee45e
+bandit33	c9c3199ddf4121b10cf581a98d51caee --bleh
+
+natas1		gtVrDuiDfck831PqWsLEZy5gyDz1clto
+natas2		ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+natas3		sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+natas4		Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ --bleh

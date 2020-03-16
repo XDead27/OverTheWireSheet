@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE items [
+<!ELEMENT items (item*)>
+<!ATTLIST items burpVersion CDATA "">
+<!ATTLIST items exportTime CDATA "">
+<!ELEMENT item (time, url, host, port, protocol, method, path, extension, request, status, responselength, mimetype, response, comment)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT host (#PCDATA)>
+<!ATTLIST host ip CDATA "">
+<!ELEMENT port (#PCDATA)>
+<!ELEMENT protocol (#PCDATA)>
+<!ELEMENT method (#PCDATA)>
+<!ELEMENT path (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>
+<!ELEMENT request (#PCDATA)>
+<!ATTLIST request base64 (true|false) "false">
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT responselength (#PCDATA)>
+<!ELEMENT mimetype (#PCDATA)>
+<!ELEMENT response (#PCDATA)>
+<!ATTLIST response base64 (true|false) "false">
+<!ELEMENT comment (#PCDATA)>
+]>
+<items burpVersion="2020.1" exportTime="Sun Mar 15 13:36:05 GMT 2020">
+  <item>
+    <time>Sun Mar 15 13:35:22 GMT 2020</time>
+    <url><![CDATA[http://natas14.natas.labs.overthewire.org/]]></url>
+    <host ip="176.9.9.172">natas14.natas.labs.overthewire.org</host>
+    <port>80</port>
+    <protocol>http</protocol>
+    <method><![CDATA[GET]]></method>
+    <path><![CDATA[/]]></path>
+    <extension>null</extension>
+    <request base64="true"><![CDATA[R0VUIC8gSFRUUC8xLjENCkhvc3Q6IG5hdGFzMTQubmF0YXMubGFicy5vdmVydGhld2lyZS5vcmcNClVzZXItQWdlbnQ6IE1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6NjguMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC82OC4wDQpBY2NlcHQ6IHRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LCovKjtxPTAuOA0KQWNjZXB0LUxhbmd1YWdlOiBlbi1VUyxlbjtxPTAuNQ0KQWNjZXB0LUVuY29kaW5nOiBnemlwLCBkZWZsYXRlDQpBdXRob3JpemF0aW9uOiBCYXNpYyBibUYwWVhNeE5EcE1aemsyVFRFd1ZHUm1ZVkI1VmtKclNtUnFlVzFpYkd4Uk5VdzJjV1JzTVE9PQ0KQ29ubmVjdGlvbjogY2xvc2UNCkNvb2tpZTogX191dG1hPTE3Njg1OTY0My43NTY2NzI2NDYuMTU4MDQwODk0Ny4xNTgwNDA4OTQ3LjE1ODA0MDg5NDcuMTsgX191dG16PTE3Njg1OTY0My4xNTgwNDA4OTQ3LjEuMS51dG1jc3I9KGRpcmVjdCl8dXRtY2NuPShkaXJlY3QpfHV0bWNtZD0obm9uZSkNClVwZ3JhZGUtSW5zZWN1cmUtUmVxdWVzdHM6IDENCkNhY2hlLUNvbnRyb2w6IG1heC1hZ2U9MA0KDQo=]]></request>
+    <status></status>
+    <responselength></responselength>
+    <mimetype></mimetype>
+    <response base64="true"></response>
+    <comment></comment>
+  </item>
+</items>

@@ -1,4 +1,4 @@
-bandit6		DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+bandit6		P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU --new
 bandit7		HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 bandit8		cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 bandit9 	UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
